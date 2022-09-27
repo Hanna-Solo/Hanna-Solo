@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanna Solomonov</h1>
-<h3 align="center">A passionate Cyber Security and QA Engineer</h3>
+<h3 align="center">Never "Give up , Always Work Hard , You Will Get There"!
+  A passionate Cyber Security and QA Engineer</h3>
 
 - 🌱 I’m currently learning **Cyber course**
 
