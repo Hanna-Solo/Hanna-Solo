@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hanna-Solo/Hanna-Solo/blob/main/Hanna%20Solomonov%20Banner.jpg" alt="Hanna Solomonov Banner" width="90%">
+  <img src="https://github.com/Hanna-Solo/Hanna/blob/main/A_professional_digital_graphic_banner_features_Han.png" alt="Hanna Solomonov Banner" width="100%">
 </p>
 
 
